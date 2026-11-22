@@ -16,6 +16,20 @@
     "productName": "lk_Swiper",
     "icon": "build/icon.ico",
     "asar": true,
+    "files": [
+      "main.js",
+      "preload.js",
+      "index.html",
+      "renderer.js",
+      "styles.css",
+      "logo.svg"
+    ],
+    "extraResources": [
+      {
+        "from": "build/icon.ico",
+        "to": "icon.ico"
+      }
+    ],
     "electronLanguages": [
       "en-US"
     ],

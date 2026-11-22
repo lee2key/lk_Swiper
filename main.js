@@ -13,7 +13,9 @@ function createWindow() {
     minWidth: 900,
     minHeight: 650,
     title: 'lk_Swiper',
-    icon: path.join(__dirname, 'build', 'icon.ico'),
+    icon: app.isPackaged
+      ? path.join(process.resourcesPath, 'icon.ico')
+      : path.join(__dirname, 'build', 'icon.ico'),
     backgroundColor: '#10151f',
     webPreferences: {
       preload: path.join(__dirname, 'preload.js'),
