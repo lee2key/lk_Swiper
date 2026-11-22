@@ -1,6 +1,6 @@
 {
   "name": "lk_swiper",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A local Windows desktop app for ranking photos through head-to-head choices.",
   "main": "main.js",
   "scripts": {
