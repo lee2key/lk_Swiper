@@ -1,4 +1,4 @@
-# Swiper
+# lk_Swiper
 
 A local Windows desktop app for ranking a folder of photos and videos through rapid, head-to-head comparisons. Videos play directly in the comparison cards.
 

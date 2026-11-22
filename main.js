@@ -12,7 +12,7 @@ function createWindow() {
     height: 820,
     minWidth: 900,
     minHeight: 650,
-    title: 'Swiper',
+    title: 'lk_Swiper',
     icon: path.join(__dirname, 'build', 'icon.ico'),
     backgroundColor: '#10151f',
     webPreferences: {

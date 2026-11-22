@@ -1,5 +1,5 @@
 {
-  "name": "swiper",
+  "name": "lk_swiper",
   "version": "1.0.0",
   "description": "A local Windows desktop app for ranking photos through head-to-head choices.",
   "main": "main.js",
@@ -13,7 +13,7 @@
   },
   "build": {
     "appId": "com.local.swiper",
-    "productName": "Swiper",
+    "productName": "lk_Swiper",
     "icon": "build/icon.ico",
     "asar": true,
     "electronLanguages": [
